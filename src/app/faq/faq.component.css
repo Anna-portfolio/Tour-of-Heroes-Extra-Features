@@ -1,0 +1,14 @@
+.faq {
+  max-width: 50rem;
+  margin-left: 2rem;
+}
+button {
+  margin-top: 20px;
+  background-color: #eee;
+  padding: 1rem;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+button:hover {
+  background-color: #cfd8dc;
+}

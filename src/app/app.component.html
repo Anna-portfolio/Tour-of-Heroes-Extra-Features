@@ -1,0 +1,14 @@
+<h1>{{title}}</h1>
+<nav>
+  <div>
+    <p class="date">Today is: {{date}}</p><br>
+  </div>
+  <a class="menu-btn" routerLink="/dashboard">Dashboard</a>
+  <a class="menu-btn" routerLink="/heroes">Heroes</a>
+  <a class="menu-btn" routerLink="/faq">FAQ</a>
+  <a class="menu-btn menu-admin" routerLink="/admin">Admin</a>
+</nav>
+<router-outlet></router-outlet>
+
+<!-- message component - commented out  -->
+<!-- <app-messages></app-messages> -->

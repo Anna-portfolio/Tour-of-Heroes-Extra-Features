@@ -1,0 +1,15 @@
+<form #heroForm="ngForm" (ngSubmit)="onSubmit()">
+    <div>
+        <label for="new-hero">Hero name: </label>
+        <input id="new-hero" name="name" [(ngModel)]="name" id="name" />
+        <label>Hero position: </label>
+        <select name="position" [(ngModel)]="position" id="position">
+            <option value="Frontend Developer">Frontend Developer</option>
+            <option value="Backend Developer">Backend Developer</option>
+            <option value="Fullstack Developer">Fullstack Developer</option>
+        </select><br><br>
+        <button type="submit">
+            Add Hero
+        </button>
+    </div>
+</form>
