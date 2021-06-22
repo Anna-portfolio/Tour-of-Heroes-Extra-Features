@@ -1,4 +1,4 @@
-The official <a href="https://angular.io/tutorial">"Tour of Heroes" Angular tutorial app</a> with additional features (based on the <a href="https://www.skillsoft.com/channel/angular-f3619a61-1944-11e7-b488-c198130a9b04?technologyandversion=84199&expertiselevel=84192">Percipio courses</a> and my own ideas).
+The official <a href="https://angular.io/tutorial">"Tour of Heroes" Angular tutorial app</a> with additional features (based on the <a href="https://www.skillsoft.com/channel/angular-f3619a61-1944-11e7-b488-c198130a9b04?technologyandversion=84199&expertiselevel=84192">Skillsoft courses</a> and my own ideas).
 
 Extra Features include:
 - Position component - adding job positions to the heroes;
